@@ -28,19 +28,19 @@ I used SQL queries [here](https://github.com/wzhang0194/Elist-SQL-Project/blob/m
 
 # Technical Analysis
 Sample of query used for sales trends below. More detailed analysis is contained in the sql file in this repository.
-![QUERY](https://github.com/wzhang0194/Elist-SQL-Project/assets/129554366/06bf32c3-6a97-4d06-9fd5-0af8caa6650a)
+![row_health](https://github.com/wzhang0194/Row-Health-SQL-Project/assets/129554366/b1a310d5-1e8e-4685-819b-8a8d1824adc7)
 
 # Recommendations
 Based on these insights, the team would like to make several recommendations across several areas:
 
 * **Product:**
-    * Identify and Address Root Causes: Analyze the reasons behind the high refund rates and the spike in refunds during specific months, such as May 2020 and March 2021. Identify any recurring issues or patterns causing dissatisfaction among customers. This analysis can help in addressing the root causes and minimizing refund requests.
+    * Bundle and Subscription Offers: Consider offering bundled packages or subscription plans for these hair products to incentivize customers to purchase multiple products or subscribe for recurring shipments. This can foster customer loyalty and increase the average customer lifetime value.
 
  * **Marketing:**
-     * Optimize User Experience on Desktop and Mobile: Since desktop is the primary account creation method with a higher number of signups, prioritize enhancing the user experience on desktop devices. Ensure that the website is responsive, intuitive, and provides a seamless browsing and signup process for desktop users. Similarly, focus on improving the mobile experience to capitalize on the significant number of signups from mobile users.
+     * Enhance Silver Plan Benefits: Since the silver plan has proven to be the most popular, consider further enhancing its benefits and coverage to attract more customers. Conduct market research to identify areas of improvement and add value-added services that align with customers' needs and preferences.
             
  * **Christmas Time Period:**
-     * Nurture Customer Engagement and Retention: Recognize the time gap between customer account creation and making a purchase, which averages around two months. Implement strategies to nurture customer engagement during this period to keep them connected with your brand. This can include personalized emails, exclusive offers, relevant content, and targeted promotions to encourage them to make a purchase sooner.
+     * Educate about Biotin Benefits: Since there were no claims for Biotin supplements during the observed periods, create educational content and informative materials that emphasize the benefits of Biotin for hair, skin, and nail health. Use social media, blog posts, and customer testimonials to raise awareness about the advantages of Biotin supplements.
        
 
 
