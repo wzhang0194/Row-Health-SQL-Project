@@ -1,7 +1,7 @@
 # Portfolio Project - Row Health Analysis
 Row Health is a leading health tech company that aims to revolutionize the healthcare industry through innovative solutions and data-driven insights. The company focuses on providing personalized and proactive healthcare services to improve patient outcomes and reduce healthcare costs. This project delves into analyzing Row Health's data using SQL to gain valuable insights into its operations, customer base, and overall performance.
 
-I used SQL queries [here](https://github.com/wzhang0194/Row-Health-SQL-Project/blob/main/Row_Health_SQL_Queries) to analyze and summarize the insights below, to be delivered to the finance, product, and marketing teams.
+I used SQL queries [here](https://github.com/wzhang0194/Row-Health-SQL-Project/blob/main/Row_Health_SQL_Queries.sql) to analyze and summarize the insights below, to be delivered to the finance, product, and marketing teams.
 
 # Summary of Insights
 **General Claim Trends:** 
