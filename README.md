@@ -27,7 +27,7 @@ I used SQL queries [here](https://github.com/wzhang0194/Row-Health-SQL-Project/b
 * Between 2019 and 2023, the top 10 customers displayed a consistent total claim count ranging from 52 to 55 claims. Among them, Marylee Rivera and Eduardo Johnson held the highest number of claims, both at 55 claims each.
 
 # Technical Analysis
-Sample of query used for sales trends below. More detailed analysis is contained in the sql file in this repository.
+Sample of query used for Christmas trends below. More detailed analysis is contained in the sql file in this repository.
 ![ss](https://github.com/wzhang0194/Row-Health-SQL-Project/assets/129554366/2c3f8a39-2734-41f8-a334-a2555d69299c)
 
 # Recommendations
