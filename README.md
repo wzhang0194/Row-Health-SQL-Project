@@ -28,6 +28,7 @@ I used SQL queries [here](https://github.com/wzhang0194/Row-Health-SQL-Project/b
 
 # Technical Analysis
 Sample of query used for Christmas trends below. More detailed analysis is contained in the sql file in this repository.
+
 ![ss](https://github.com/wzhang0194/Row-Health-SQL-Project/assets/129554366/2c3f8a39-2734-41f8-a334-a2555d69299c)
 
 # Recommendations
