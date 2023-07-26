@@ -10,8 +10,8 @@ I used SQL queries [here](https://github.com/wzhang0194/Row-Health-SQL-Project/b
 * In June 2023, Row Health recorded 1069 total claims, with a cost of $137,411 and $83,032 covered by insurance, leading to a reimbursement rate of 60%. Notably, this reimbursement rate closely aligns with the average rate of 61% observed across all years."
   
 **State Claim Trends:** 
-* The top three states with the most claims were New Jersey, totaling $479,357, followed by New York with $64,740, and North Dakota with $50,279.
-* Among these states, New Jersey had the highest number of claims at $3964, while New York had $494, and North Dakota had $397 in claims.
+* The top three states with the most claim amounts were New Jersey, totaling $479,357, followed by New York with $64,740, and North Dakota with $50,279.
+* Among these states, New Jersey had the highest number of claims at 3964, while New York had 494, and North Dakota had 397 in claims.
 
 **Product Trends:**
 * Between 2019 and 2023, three hair products stood out with the highest number of claims: hair growth supplements, leading with 20,854 claims; followed by hair vitamins trio with 930 claims, and hair and nail wellbeing with 99 claims.
